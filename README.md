@@ -32,7 +32,7 @@
 * [DS09-8266] (https://www.youtube.com/watch?v=Ub3gb79Tsik)
 * [Camera To line-esp32] (https://www.youtube.com/watch?v=q8O-PgQqVUE)
 * [labนักศึกษา class2 labครั้งที่4] (https://drive.google.com/open?id=14n3MprUoEBNwyx6P-4NMVQ8gi8YUlsw9)
-* [labนักศึกษา class2 labครั้งที่3] (https://drive.google.com/open?id=1-8Hc-UmJq8gPYsLFraQY4wWHQ5oGiYNs)
+* [labนักศึกษา class2 labครั้งที่3] (https://drive.google.com/drive/folders/10OW007GWBJKjiO5L8mIxPcAfsVswPm8O)
 * [labนักศึกษา class2 labครั้งที่2] (https://drive.google.com/open?id=1Qve9kDi6V_rdXxZGg4E3yDWWSxcslWL7)
 * [labนักศึกษา class1 labครั้งที่3] (https://drive.google.com/open?id=1X0ZfM4K5BpBzqneUhBxTa1yIL2HDI_cp)
 * [labนักศึกษา class1 labครั้งที่2] (https://drive.google.com/folderview?id=1HHUlq1smGzhAG0HMmsEvWo2NQA3s85vz)
