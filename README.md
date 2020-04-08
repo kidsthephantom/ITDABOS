@@ -1,5 +1,7 @@
 # เอกสารและวิดีโอประกอบการอบรมและการสอน
 
+* [githubpage ใช้templateที่สร้างไว้แล้ว](https://www.youtube.com/watch?v=Yp4coBHuXEE)
+* [githubpage ใช้repositoriesที่ถูกเลือกthemeไว้แล้ว](https://www.youtube.com/watch?v=ZTdgcdCS4SU)
 * [เพิ่มปุ่มpaypal ในwebpage](https://www.youtube.com/watch?v=n9oh1k1LpOE)
 * [githubpage insert checkbox](https://www.youtube.com/watch?v=F6yd7LjI3d0)
 * [githubpage insert image](https://www.youtube.com/watch?v=_M_rDEwXdJ4)
