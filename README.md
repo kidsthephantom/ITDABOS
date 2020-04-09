@@ -1,5 +1,5 @@
 # เอกสารและวิดีโอประกอบการอบรมและการสอน
-
+* [labนักศึกษา class2 labครั้งที่2](https://drive.google.com/open?id=1gkyGjEw5KTialmJCqEbjU9wQYBAKRney)
 * [githubpage ใช้templateที่สร้างไว้แล้ว](https://www.youtube.com/watch?v=Yp4coBHuXEE)
 * [githubpage ใช้repositoriesที่ถูกเลือกthemeไว้แล้ว](https://www.youtube.com/watch?v=ZTdgcdCS4SU)
 * [เพิ่มปุ่มpaypal ในwebpage](https://www.youtube.com/watch?v=n9oh1k1LpOE)
