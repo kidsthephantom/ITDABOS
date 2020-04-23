@@ -1,5 +1,6 @@
 # เอกสารและวิดีโอประกอบการอบรมและการสอน
 * [labนักศึกษา class3 labครั้งที่4](https://drive.google.com/open?id=1LGC1tFmMlx92Eb57Z8-a-BSbLMYiouM0)
+* [labนักศึกษา class3 labครั้งที่3](https://drive.google.com/open?id=1yiSq3ToHybaAWkV38j52dIUx3kF5uYuU)
 * [labนักศึกษา class3 labครั้งที่2](https://drive.google.com/open?id=1gkyGjEw5KTialmJCqEbjU9wQYBAKRney)
 * [githubpage ใช้templateที่สร้างไว้แล้ว](https://www.youtube.com/watch?v=Yp4coBHuXEE)
 * [githubpage ใช้repositoriesที่ถูกเลือกthemeไว้แล้ว](https://www.youtube.com/watch?v=ZTdgcdCS4SU)
